@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b954c99998df2c14abb9cdd685f3dbf9
+timeCreated: 1509728740
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - loaderScript: {instanceID: 0}
+  - roomPrefab: {fileID: 115950, guid: 62440a0d228e0b64cb4371d4f85b7b8b, type: 2}
+  - createRoomPanel: {instanceID: 0}
+  - roomBlueprint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

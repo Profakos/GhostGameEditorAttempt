@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f0977b4b31c01834aa72756744394509
+timeCreated: 1506256296
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - floorPrefab: {fileID: 115950, guid: 62440a0d228e0b64cb4371d4f85b7b8b, type: 2}
+  - horizontalWallPrefab: {fileID: 1126509656936840, guid: 25cc44727cd9a7b40a5577aeb9622876,
+      type: 2}
+  - verticalWallPrefab: {fileID: 1126213830991994, guid: c49ac265e7449d1408157ca0e5e0b5d7,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
